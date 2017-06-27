@@ -23,7 +23,7 @@ TensorFlow.
 ## Extra points
 
 * Use Zenhub [Chrome Extension].
-
+* Use React Native for Android/iOS build.
 
 ### Android
 * Use Retrofit for API calls.
@@ -35,6 +35,7 @@ TensorFlow.
 ### iOS
 * Use RestKit for API calls.
 * Use Swift instead Objective-C
+* Use [Swift Package Manager]
 
 ### Web
 * Use React/Angular as front-end framework.
@@ -47,3 +48,5 @@ TensorFlow.
 [Instagram API]: https://www.instagram.com/developer/
 
 [Chrome extension]: https://www.zenhub.com/
+
+[Swift Package Manager]: https://github.com/apple/swift-package-manager
