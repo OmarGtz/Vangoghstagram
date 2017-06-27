@@ -20,5 +20,30 @@ TensorFlow.
 * Feel free to use all assets (background images, texts) from the internetz :).
 
 
+## Extra points
+
+* Use Zenhub [Chrome Extension].
+
+
+### Android
+* Use Retrofit for API calls.
+* Use Material Design retrocompatibility package.
+* The APK file should thinner than 10mb.
+* Upload the app to Google Play.
+* Use Kotlin instead Java.
+
+### iOS
+* Use RestKit for API calls.
+* Use Swift instead Objective-C
+
+### Web
+* Use React/Angular as front-end framework.
+* Use Flask/Bootstrap instead Django.
+* Use Firebase instead Django.
+* Implement Materialize in the front-end.
+* Use a framework you are not familiar with.
+
 
 [Instagram API]: https://www.instagram.com/developer/
+
+[Chrome extension]: https://www.zenhub.com/
