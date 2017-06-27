@@ -11,6 +11,9 @@ Your goal today is to build a simple Android/iOS/Web app with the following func
 * On a successful signin, store the authentication token returned from the API.
 * Store the last 5 uploaded images and apply them a Post-realism filter using
 TensorFlow.
+* Display all images using [Master-detail design pattern].
+* When user clicks in the image, it display in full screen.
+---
 
 ## Guidelines
 
@@ -18,7 +21,7 @@ TensorFlow.
 * Spend a fixed amount of time building the app – less than 9 hours.
 * Use your own Instagram Account for testing purposes.
 * Feel free to use all assets (background images, texts) from the internetz :).
-
+---
 
 ## Extra points
 
@@ -50,3 +53,5 @@ TensorFlow.
 [Chrome extension]: https://www.zenhub.com/
 
 [Swift Package Manager]: https://github.com/apple/swift-package-manager
+
+[Master-detail design pattern]: https://medium.com/gone-remote/case-study-master-detail-pattern-revisited-86c0ed7fc3e
