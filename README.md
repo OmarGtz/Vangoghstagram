@@ -5,14 +5,12 @@
 Your goal today is to build a simple Android/iOS/Web app with the following functionality:
 
 * An animated welcome screen that transitions into a view that allows the user to sign into Instagram.
-* An authentication screen that captures a user's email and password.
 * Use [Instagram API] in order to get the 5 last uploaded images.
 * If either field is missing or signin fails, return a relevant error message.
 * On a successful signin, store the authentication token returned from the API.
-* Store the last 5 uploaded images and apply them a Post-realism filter using
-TensorFlow.
 * Display all images using [Master-detail design pattern].
 * When user clicks in the image, it display in full screen.
+* Create a CSS filter for the images []
 ---
 
 ## Guidelines
@@ -27,6 +25,8 @@ TensorFlow.
 
 * Use Zenhub [Chrome Extension].
 * Use React Native for Android/iOS build.
+* An authentication screen that captures a user's email and password.
+* Store the last 5 uploaded images and apply them a Post-realism filter using TensorFlow.
 
 ### Android
 * Use Retrofit for API calls.
